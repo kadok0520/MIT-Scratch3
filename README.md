@@ -8,14 +8,14 @@ https://llk.github.io/scratch-gui/
 https://github.com/LLK/scratch-gui/
 
 # Dockerhub:
-https://hub.docker.com/r/kadok0520/scratch3/
+https://hub.docker.com/r/kadok0520/mit-scratch3/
 
 # Step:
 1. pull image  下載映像檔
 $ docker pull kadok0520/scratch3
 
 2. run  執行
-$ docker run -d -p 80:8601 --name scratch3_01 kadok0520/scratch3
+$ docker run -d -p 80:8601 --name scratch3_01 kadok0520/mit-scratch3
 
 3. open your browser  
 http://your_docker_server_ip:80
