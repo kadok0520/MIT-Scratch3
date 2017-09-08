@@ -4,7 +4,7 @@ Scratch GUI is a set of React components that comprise the interface for creatin
 # Official site 
 https://llk.github.io/scratch-gui/
 
-# Github 
+# Official Github 
 https://github.com/LLK/scratch-gui/
 
 # Dockerhub:
@@ -21,4 +21,4 @@ $ docker run -d -p 80:8601 --name scratch3_01 kadok0520/mit-scratch3
 http://your_docker_server_ip:80
 
 # Notices
-Your server at least 500 MB Memory !
+Your server will cost at least 500 MB Memory !
