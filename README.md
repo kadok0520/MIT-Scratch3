@@ -1,6 +1,9 @@
 # Scratch3 / Scratch-GUI by MIT
 Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
 
+# MAINTAINER Hong-Da, Ke
+# 維護者：資訊教師柯達
+
 # Official site 
 https://llk.github.io/scratch-gui/
 
