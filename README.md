@@ -3,6 +3,7 @@ Scratch GUI is a set of React components that comprise the interface for creatin
 
 # MAINTAINER Hong-Da, Ke
 # 維護者：資訊教師柯達
+確定有中文語系，2018八月正式3.0釋出
 
 # Official site 
 https://llk.github.io/scratch-gui/
