@@ -1,6 +1,9 @@
 FROM node:alpine
 MAINTAINER Hong-Da, Ke
 
+RUN apk update \
+    && apk upgrade 
+
 RUN apk add --no-cache git \
     && cd /root \
     && git clone https://github.com/LLK/scratch-gui.git \
